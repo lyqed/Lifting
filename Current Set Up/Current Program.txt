@@ -2,7 +2,7 @@ Day 1:
  
 Overhead press             4-8x3-4   
 BWNH neutral grip pull-ups 4-10x3    X Pullover               6-12  
-NHEZBARCG standing curls   4-8x3     X NH Skullcrushers       7-12   X Lateral cable raises   8-15
+NHEZBARCG standing curls   5-9x3     X NH Skullcrushers       7-12   X Lateral cable raises   8-15
 Neck curls                 20-35x3   X Leg raises             5-15   X Bodyweight calf raises 10-40        
  
 
@@ -10,7 +10,7 @@ Neck curls                 20-35x3   X Leg raises             5-15   X Bodyweigh
 
 Day 2:
 
-Goblet squats              6-12x3    X Arnold raises          8-12
+Goblet squats              6-12x3    X Bench rear delt raises 8-12
 Weighted Hyperextensions   8-20x3    X Machine rows 45        8-12   X Band backhand tricep   AMRAP
 RDLs                       6-10x3    X Devon wrist curls      8-12   X Russian twist          10-30
 
@@ -19,11 +19,11 @@ RDLs                       6-10x3    X Devon wrist curls      8-12   X Russian t
 
 Day 4:
 
-*Dumbbell bench press      6-10x3-4 
-*Larsen press              4-8x3
-Bradford press             8-16x3    X Farmers carry          AMRAP  X Leg raises             10-25
-AWSDB preacher curls       6-10x3    X EZ bar calve raises    10-25  X Neck curls             20-35              
-
+*Pause DB bench press      6-10x3-4 
+*Larsen press ROM          4-8x3
+AWSDB preacher curls       6-10x3    X Cable overhead tricep  6-12  
+Farmers carry              AMRAPx2   X Leg raises             10-25
+EZ bar calve raises        10-25     X Neck curls             20-35              
 
 
 
@@ -63,7 +63,7 @@ Neck curls                 20-35x3   X Leg raises             5-15   X Bodyweigh
 
 Day 2:
 
-Goblet squat               6-12x3    X Arnold raises          8-12
+Goblet squat               6-12x3    X Bench rear delt raises 8-12
 Weighted hyperextensions   8-20x3    X Machine rows 45        8-12   X Band backhand tricep   AMRAP
 RDLs                       6-10x3    X Devon wrist curls      8-12   X Russian twist          10-30
 
@@ -73,9 +73,10 @@ RDLs                       6-10x3    X Devon wrist curls      8-12   X Russian t
 Day 4:
 
 *Dumbbell bench press      6-10x3-4 
-*Larsen press              4-8x3-4
-Bradford press             8-16x3    X Farmers carry          AMRAP  X Pike sit-ups           10-25
-AWSDB preacher curls       6-10x3    X EZ bar calve raises    10-25  X Neck curls             20-35              
+*Larsen press ROM          4-8x3-4
+AWSDB preacher curls       6-10x3    X Cable overhead tricep  6-12  
+Farmers carry              AMRAPx2   X Leg raises             10-25
+EZ bar calve raises        10-25     X Neck curls             20-35               
 
 
 
@@ -95,8 +96,8 @@ Pullover                   8-12x2-4  X Leg raises
 Day 6:
 
 NHWG pull-ups weighted     5-7       
-Close grip bench press     6-12x3    X DB rows                6-10
-*Seated DB OHP             8-12x3    X AWSDB preacher curls   5-7    X NH skull crushers 
+Close grip bench press     6-12x3    X Bench rows             6-10
+*Seated DB OHP             8-12x3    X AWSDB preacher curls   5-7    X Cable overhead tricep  6-12 
 *AWSDB preacher curls      5-7x4     X *NH skull crushers     8-12   X BW hyperextensions     AMRAP   
 Single leg calve raises    AMRAP     X Band tricep finishers  AMRAP  X Venior forearm raises  8-15
 
